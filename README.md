@@ -1,7 +1,6 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=2000&pause=500&color=36BCF7&center=true&vCenter=true&width=435&lines=Hello+%22Contributors%22+%F0%9F%91%8B;I'm+Lahiri+Nallapati!!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=2000&pause=500&color=0D47A1&center=true&vCenter=true&width=435&lines=Hello+%22Contributors%22+%F0%9F%91%8B;I'm+Lahiri+Nallapati!!" alt="Typing SVG" />
 </h1>
-
 <p align="center">
   I'm a 2nd-year BE CSE student exploring the realms of Web Development, Backend Systems, and Machine Learning. I’m driven to build impactful projects and solve real-world problems through code.
 </p>
