@@ -16,7 +16,7 @@
 
 ---
 <h1 align="center">
-  ### 🤖 Languages 🤖
+  🤖 Languages 🤖
 </h1>
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
