@@ -12,4 +12,4 @@ I'm a 2nd-year BE CSE student exploring the realms of Web Development, Backend S
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</div><</h1>
+</div></h1>
